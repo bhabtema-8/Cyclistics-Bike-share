@@ -1,4 +1,4 @@
-Business Objective<img width="1005" height="210" alt="image" src="https://github.com/user-attachments/assets/ce2e3980-cfd8-4f0a-8c52-26a4a0659734" />
+Business Objective
 
 The objective of pursuing this analysis was to find the differences between casual riders of Cyclistic and the annual paying members, and subsequently use these findings to find out the reasons for casual riders converting into members. These findings would be used to target digital media marketing campaign to increase the number of annual paying members of Cyclistic.
 <img width="4537" height="70" alt="image" src="https://github.com/user-attachments/assets/55c8054a-6139-46e2-8609-b180353217ae" />

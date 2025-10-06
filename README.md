@@ -31,4 +31,5 @@ The graph depicting overall ride durations indicates that casual riders generall
 
 
 Conclusion
+
 The analysis reveals that casual riders consistently spend more time on their trips compared to members. This pattern, clearly illustrated in the average ride duration data and supporting visualizations, suggests that casual users may use the service more for leisure or longer recreational rides, while members likely use it for shorter, more routine commutes. Additionally, the data shows that there are more members than casual riders, indicating a strong preference for membership among users. Given the benefits and cost-efficiency that often come with membership plans, casual riders may find it advantageous to become members, especially if they ride frequently.

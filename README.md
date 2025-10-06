@@ -4,10 +4,10 @@ The objective of pursuing this analysis was to find the differences between casu
 <img width="4537" height="70" alt="image" src="https://github.com/user-attachments/assets/55c8054a-6139-46e2-8609-b180353217ae" />
 
 How Data was Processed and Analyzed<img width="1712" height="175" alt="image" src="https://github.com/user-attachments/assets/46c5d98a-5888-4b7b-918e-eeaef39289ca" />
-I took the ridership data from divvy for the 2019 1st Quarter and 2020 1st quarter. I then processed this data in excel and R to update the time data (DD-MM-YYYY : HH:MM:SS) to convert it to seconds and minutes for future calculation inorder to change it to numeric data type. I finally added a column showing the trip duration in minutes (assuming that the trip is under an hour, due to the nature of the data, I cannot determine if it is over an hour).
+I took the ridership data from divvy for the 2019 1st Quarter and 2020 1st quarter. I then processed this data in excel and R to update the time data (DD-MM-YYYY : HH:MM:SS) to convert it to seconds and minutes for future calculation inorder to change it to numeric data type. <img width="9510" height="207" alt="image" src="https://github.com/user-attachments/assets/276ae991-cbd6-49b6-99cb-50c86b4a6386" />
+ I finally added a column showing the trip duration in minutes (assuming that the trip is under an hour, due to the nature of the data, I cannot determine if it is over an hour).
 <img width="3706" height="123" alt="image" src="https://github.com/user-attachments/assets/a2df1a9d-823c-47b3-b7a6-4fd682178c93" />
 
-<img width="9510" height="207" alt="image" src="https://github.com/user-attachments/assets/276ae991-cbd6-49b6-99cb-50c86b4a6386" />
 
 Results of Analysis<img width="966" height="210" alt="image" src="https://github.com/user-attachments/assets/eb946fd6-a84b-4034-b213-6997f5b6c675" />
 I used R to perform analysis as it is an opensource tool that is very effective at handling large data like this project (which ended up at close to 800K rows of data).

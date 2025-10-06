@@ -13,12 +13,18 @@ I used R to perform analysis as it is an opensource tool that is very effective 
 It is also easy to track the analysis and repeat steps with variations if required at any time as the steps are all saved as a source file.
 All analysis was done using the tidyverse library in R (specifically ggplot2 and dplyr for the majority).
 An overall analysis of the rider types who use Cyclistic shows that the majority are already annual subscribers. 
+
+<img width="613" height="454" alt="image" src="https://github.com/user-attachments/assets/fd61071f-66e5-4f47-b9d8-2c1b969969e8" />
+
 Based on the data, casual riders have an average trip duration of 5,761 seconds (01:36:01), while members have an average duration of 761 seconds (00:12:41), indicating that casual riders spend considerably more time per trip.
 
 member_casual mean_duration mean_duration_hms
   <chr>                 <dbl> <chr>            
 1 casual                5761. 01:36:01         
 2 member                 761. 00:12:41 
+
+
+<img width="613" height="454" alt="image" src="https://github.com/user-attachments/assets/7f96e67c-fa52-446c-9d3c-cb330df6e972" />
 
 The graph depicting overall ride durations indicates that casual riders generally spend more time on their trips than members.
 
